@@ -4,6 +4,16 @@ Play classic Tic Tac Toe with friends online or enjoy a fun offline experience â
 
 ## Get started
 
+1. Server
+
+```bash
+npm install
+
+npm run dev
+```
+
+2. Client
+
 ```bash
 npm install
 
@@ -17,7 +27,7 @@ npm run start
 
 ## Tutorial
 
-Tutorial - [Click Here](https://youtu.be/RHDa-bv24b4)
+Part 1 - [Click Here](https://youtu.be/RHDa-bv24b4)
 
 ## ðŸš€ About Me
 

@@ -19,7 +19,10 @@ export default function Index() {
               Offline Play
             </Text>
           </Pressable>
-          <Pressable className="bg-yellow-600 w-[70%] items-center justify-center py-3 rounded-full border-4 border-yellow-400 shadow-xl shadow-yellow-400">
+          <Pressable
+            className="bg-yellow-600 w-[70%] items-center justify-center py-3 rounded-full border-4 border-yellow-400 shadow-xl shadow-yellow-400"
+            onPress={() => router.push("/online")}
+          >
             <Text className="text-white text-2xl font-semibold">
               Online Multiplayer
             </Text>
