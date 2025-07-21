@@ -27,7 +27,8 @@ npm run start
 
 ## Tutorial
 
-Part 1 - [Click Here](https://youtu.be/RHDa-bv24b4)
+Part 1 - [Click Here](https://www.youtube.com/watch?v=RHDa-bv24b4)
+Part 2 - [Click Here](https://www.youtube.com/watch?v=Qr15oDzEC5U)
 
 ## 🚀 About Me
 
